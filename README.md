@@ -11,12 +11,12 @@
 
 ## 💫 About Me
 
-- 🎓 Currently studying **Computer Science & Engineering**
-- 💻 Interested in **Software Engineering, Web Technologies, and Systems**
-- 🌱 Actively learning and building projects
-- 🎯 Focused on improving problem-solving and practical skills
-
----
+- 🎓 **CS & Engineering student** with a focus on building things that actually work
+- 🔭 Currently exploring **full-stack web development** and **systems programming**
+- 🛠️ Building projects to sharpen my skills in **React, Node.js, Golang, Nextjs and low-level systems**
+- 🧩 Passionate about writing clean, efficient code and tackling complex problems
+- 🌱 Always learning — currently diving deeper into **data structures, algorithms, and backend architecture**
+- 💬 Ask me about web technologies, or anything CS — I enjoy talking tech!
 
 ## 🌐 Socials
 
