@@ -6,11 +6,11 @@
 
 <a href="https://www.linkedin.com/in/rifate-nur-shawn-5a6607275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/NobodyWasStark"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=NobodyWasStark&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://profile-counter.glitch.me/NobodyWasStark/count.svg?base=540"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Go+%7C+Node.js+%7C+Next.js+%7C+PostgreSQL;Building+self-hosted+LLM+infra;Freelancing+%7C+Open+to+work;CSE+Student+%40+UIU%2C+Dhaka" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Go+%7C+Node.js+%7C+Next.js+%7C+PostgreSQL;Building+self-hosted+LLM+infra;Open+to+Remote+%7C+Part-Time+%7C+Full-Time;CSE+Student%2C+Dhaka" alt="Typing SVG"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 ```yaml
 name: Rifate Nur Shawn
 role: Full-Stack Software Engineer
-education: CSE @ United International University, Dhaka (Class of 2027)
+education: Computer Science & Engineering student
 location: Dhaka, Bangladesh
 focus: [full-stack web, backend systems, agentic AI workflows, self-hosted LLM infra]
 philosophy: "minimal-complexity, terminal-first, AI as force multiplier — not a crutch"
@@ -88,12 +88,6 @@ currently:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NobodyWasStark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyWasStark&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -102,28 +96,6 @@ currently:
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyWasStark&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td><img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" /></td>
-<td><img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" /></td>
-<td><img src="profile-summary-card-output/tokyonight/3-stats.svg" /></td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center">
-
-<h3>📈 Contribution Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NobodyWasStark&bg_color=0d1117&color=58a6ff&line=0e75b6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
 </div>
 
 <br/>
@@ -162,7 +134,8 @@ currently:
 
 <div align="center">
 
-<h3>🤝 Open to freelance work, collaboration, and hard problems</h3>
+<h3>🤝 Open to Remote, Part-Time & Full-Time Opportunities</h3>
+<p>Freelance work · Collaboration · Hard problems</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer" width="100%"/>
 
