@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/rifate-nur-shawn-5a6607275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/NobodyWasStark"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://profile-counter.glitch.me/NobodyWasStark/count.svg?base=540"/>
 
 <br/><br/>
 
@@ -90,7 +89,6 @@ currently:
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NobodyWasStark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyWasStark&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -100,29 +98,7 @@ currently:
 
 <br/>
 
-<div align="center">
-
-<h3>🏆 Trophies</h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NobodyWasStark&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%" />
-
-<div align="center">
-
-<h2>🐍 Contribution Snake</h2>
-
-<img src="https://raw.githubusercontent.com/NobodyWasStark/NobodyWasStark/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub><i>generated via the <a href="https://github.com/Platane/snk">snake action</a> — set up as a scheduled workflow</i></sub>
-
-</div>
-
-<br/>
 
 ## ✍️ Dev Quote
 
